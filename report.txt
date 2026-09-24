@@ -1,0 +1,3 @@
+Placement file: 'C:\Users\1amel\Downloads\PCIexpress_x8_low\PCIexpress_x8_low-all-pos.csv'.
+Info: Component count: 12.
+Info: Done.
